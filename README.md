@@ -6,12 +6,16 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|16  |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](/problems/python/3sum-closest.py)|Medium|
-|345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](/problems/cpp/reverse-vowels-of-a-string.cpp)|Easy|
+|16  |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](/problems/cpp/3sum-closest.cpp)|Medium|
+|151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](/problems/python/reverse-words-in-a-string.py)|Medium|
+|238 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](/problems/cpp/product-of-array-except-self.cpp)|Medium|
+|334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](/problems/cpp/increasing-triplet-subsequence.cpp)|Medium|
+|345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](/problems/python/reverse-vowels-of-a-string.py)|Easy|
 |535 |[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](/problems/python/encode-and-decode-tinyurl.py)|Medium|
 |605 |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python](/problems/python/can-place-flowers.py)|Easy|
-|807 |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [C++](/problems/cpp/max-increase-to-keep-city-skyline.cpp)|Medium|
-|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](/problems/python/deepest-leaves-sum.py)|Medium|
+|807 |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Python](/problems/python/max-increase-to-keep-city-skyline.py)|Medium|
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Python](/problems/python/greatest-common-divisor-of-strings.py)|Easy|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [C++](/problems/cpp/deepest-leaves-sum.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](/problems/python/kids-with-the-greatest-number-of-candies.py)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [C++](/problems/cpp/maximum-product-of-two-elements-in-an-array.cpp)|Easy|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [C++](/problems/cpp/special-positions-in-a-binary-matrix.cpp)|Easy|
