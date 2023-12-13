@@ -7,7 +7,9 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |16  |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](/problems/python/3sum-closest.py)|Medium|
+|345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](/problems/cpp/reverse-vowels-of-a-string.cpp)|Easy|
 |535 |[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](/problems/python/encode-and-decode-tinyurl.py)|Medium|
+|605 |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python](/problems/python/can-place-flowers.py)|Easy|
 |807 |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [C++](/problems/cpp/max-increase-to-keep-city-skyline.cpp)|Medium|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](/problems/python/deepest-leaves-sum.py)|Medium|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](/problems/python/maximum-product-of-two-elements-in-an-array.py), [C++](/problems/cpp/maximum-product-of-two-elements-in-an-array.cpp)|Easy|
