@@ -20,4 +20,5 @@ LeetCode
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [C++](/problems/cpp/maximum-product-of-two-elements-in-an-array.cpp)|Easy|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [C++](/problems/cpp/special-positions-in-a-binary-matrix.cpp)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C++](/problems/cpp/merge-strings-alternately.cpp)|Easy|
+|2482|[Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [C++](/problems/cpp/difference-between-ones-and-zeros-in-row-and-column.cpp)|Medium|
 |2807|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Python](/problems/python/insert-greatest-common-divisors-in-linked-list.py)|Medium|
