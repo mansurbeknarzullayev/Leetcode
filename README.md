@@ -22,6 +22,7 @@ LeetCode
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [C++](/problems/cpp/deepest-leaves-sum.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](/problems/python/kids-with-the-greatest-number-of-candies.py)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [C++](/problems/cpp/maximum-product-of-two-elements-in-an-array.cpp)|Easy|
+|1436|[Destination City](https://leetcode.com/problems/destination-city/) | [C++](/problems/cpp/destination-city.cpp)|Easy|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [C++](/problems/cpp/special-positions-in-a-binary-matrix.cpp)|Easy|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Python](/problems/python/max-number-of-k-sum-pairs.py)|Medium|
 |1757|[Recyclable and Low Fat Products (Pandas)](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Python](/problems/python/recyclable-and-low-fat-products.py)|Medium|
