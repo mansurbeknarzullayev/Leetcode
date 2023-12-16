@@ -10,6 +10,7 @@ LeetCode
 |16  |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](/problems/cpp/3sum-closest.cpp)|Medium|
 |151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](/problems/python/reverse-words-in-a-string.py)|Medium|
 |238 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](/problems/cpp/product-of-array-except-self.cpp)|Medium|
+|242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](/problems/cpp/valid-anagram.cpp)|Easy|
 |283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](/problems/python/move-zeroes.py)|Easy|
 |334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](/problems/cpp/increasing-triplet-subsequence.cpp)|Medium|
 |345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](/problems/python/reverse-vowels-of-a-string.py)|Easy|
