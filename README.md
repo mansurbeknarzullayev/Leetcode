@@ -3,28 +3,20 @@ LeetCode
 
 ### LeetCode Contests
 
-#### Biweekly Contest 97
-
 | # | Title | Solution | Difficulty |
+|Biweekly Contest 97|
 |---| ----- | -------- | ---------- |
 |2553|[Separate the Digits in an Array](https://leetcode.com/contest/biweekly-contest-97/problems/separate-the-digits-in-an-array/) | [Python](/contests/biweekly-contest-97/problems/python/separate-the-digits-in-an-array.py)|Easy|
 |2554|[Maximum Number of Integers to Choose From a Range I](https://leetcode.com/contest/biweekly-contest-97/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [Python](/contests/biweekly-contest-97/problems/python/maximum-number-of-integers-to-choose-from-a-range-i.py)|Medium|
 |2555|[Maximize Win From Two Segments](https://leetcode.com/contest/biweekly-contest-97/problems/maximize-win-from-two-segments/) | [Python](/contests/biweekly-contest-97/problems/python/maximize-win-from-two-segments.py)|Medium|
-
-#### Weekly Contest 331
-
-| # | Title | Solution | Difficulty |
+|Weekly Contest 331|
 |---| ----- | -------- | ---------- |
 |2558|[Take Gifts From the Richest Pile](https://leetcode.com/contest/weekly-contest-331/problems/take-gifts-from-the-richest-pile/) | [Python](/contests/weekly-contest-331/problems/python/take-gifts-from-the-richest-pile.py)|Easy|
 |2559|[Count Vowel Strings in Ranges](https://leetcode.com/contest/weekly-contest-331/problems/count-vowel-strings-in-ranges/) | [Python](/contests/weekly-contest-331/problems/python/count-vowel-strings-in-ranges.py)|Medium|
 |2560|[House Robber IV](https://leetcode.com/contest/weekly-contest-331/problems/house-robber-iv/) | [Python](/contests/weekly-contest-331/problems/python/house-robber-iv.py)|Medium|
 |2561|[Rearranging Fruits](https://leetcode.com/contest/weekly-contest-331/problems/rearranging-fruits/) | [Python](/contests/weekly-contest-331/problems/python/rearranging-fruits.py)|Hard|
-
-
-#### Weekly Contest 376
-
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+|Weekly Contest 376|
+|-----------------------|
 |2965|[Find Missing and Repeated Values](https://leetcode.com/contest/weekly-contest-376/problems/find-missing-and-repeated-values/) | [Python](/contests/weekly-contest-376/problems/python/find-missing-and-repeated-values.py)|Easy|
 |2966|[Divide Array Into Arrays With Max Difference](https://leetcode.com/contest/weekly-contest-376/problems/divide-array-into-arrays-with-max-difference/) | [Python](/contests/weekly-contest-376/problems/python/divide-array-into-arrays-with-max-difference.py)|Medium|
 |2967|[Minimum Cost to Make Array Equalindromic](https://leetcode.com/contest/weekly-contest-376/problems/minimum-cost-to-make-array-equalindromic/) | [Python](/contests/weekly-contest-376/problems/python/minimum-cost-to-make-array-equalindromic.py)|Medium|
