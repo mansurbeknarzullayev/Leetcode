@@ -1,9 +1,9 @@
 LeetCode
 ========
 
-## LeetCode Contests
+### LeetCode Contests
 
-### Biweekly Contest 97
+#### Biweekly Contest 97
 
 | #   | Title                                           | Solution                                              | Difficulty |
 | --- | ------------------------------------------------ | ----------------------------------------------------- | ---------- |
@@ -11,7 +11,7 @@ LeetCode
 | 2554| [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/contest/biweekly-contest-97/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [Python](/contests/biweekly-contest-97/problems/python/maximum-number-of-integers-to-choose-from-a-range-i.py) | Medium     |
 | 2555| [Maximize Win From Two Segments](https://leetcode.com/contest/biweekly-contest-97/problems/maximize-win-from-two-segments/) | [Python](/contests/biweekly-contest-97/problems/python/maximize-win-from-two-segments.py) | Medium     |
 
-### Weekly Contest 331
+#### Weekly Contest 331
 
 | #   | Title                                           | Solution                                              | Difficulty |
 | --- | ------------------------------------------------ | ----------------------------------------------------- | ---------- |
@@ -20,7 +20,7 @@ LeetCode
 | 2560| [House Robber IV](https://leetcode.com/contest/weekly-contest-331/problems/house-robber-iv/) | [Python](/contests/weekly-contest-331/problems/python/house-robber-iv.py) | Medium     |
 | 2561| [Rearranging Fruits](https://leetcode.com/contest/weekly-contest-331/problems/rearranging-fruits/) | [Python](/contests/weekly-contest-331/problems/python/rearranging-fruits.py) | Hard       |
 
-### Weekly Contest 376
+#### Weekly Contest 376
 
 | #   | Title                                           | Solution                                              | Difficulty |
 | --- | ------------------------------------------------ | ----------------------------------------------------- | ---------- |
@@ -29,7 +29,7 @@ LeetCode
 | 2967| [Minimum Cost to Make Array Equalindromic](https://leetcode.com/contest/weekly-contest-376/problems/minimum-cost-to-make-array-equalindromic/) | [Python](/contests/weekly-contest-376/problems/python/minimum-cost-to-make-array-equalindromic.py) | Medium     |
 
 
-## LeetCode Problems
+### LeetCode Problems
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
