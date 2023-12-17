@@ -35,11 +35,13 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |11  |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](/problems/python/container-with-most-water.py)|Medium|
 |16  |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](/problems/cpp/3sum-closest.cpp)|Medium|
+|136 |[Single Number](https://leetcode.com/problems/single-number/) | [C++](/problems/cpp/single-number.cpp)|Easy|
 |151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](/problems/python/reverse-words-in-a-string.py)|Medium|
 |238 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](/problems/cpp/product-of-array-except-self.cpp)|Medium|
 |242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](/problems/cpp/valid-anagram.cpp)|Easy|
 |283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](/problems/python/move-zeroes.py)|Easy|
 |334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](/problems/cpp/increasing-triplet-subsequence.cpp)|Medium|
+|338 |[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](/problems/cpp/counting-bits.cpp)|Easy|
 |345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](/problems/python/reverse-vowels-of-a-string.py)|Easy|
 |392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](/problems/cpp/is-subsequence.cpp)|Easy|
 |443 |[String Compression](https://leetcode.com/problems/string-compression/) | [Python](/problems/python/string-compression.py)|Medium|
@@ -47,9 +49,12 @@ LeetCode
 |605 |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python](/problems/python/can-place-flowers.py)|Easy|
 |643 |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](/problems/python/maximum-average-subarray-i.py)|Easy|
 |724 |[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](/problems/cpp/find-pivot-index.cpp)|Easy|
+|735 |[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](/problems/python/asteroid-collision.py)|Medium|
+|746 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](/problems/cpp/min-cost-climbing-stairs.py)|Easy|
 |807 |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Python](/problems/python/max-increase-to-keep-city-skyline.py)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](/problems/python/max-consecutive-ones-iii.cpp)|Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Python](/problems/python/greatest-common-divisor-of-strings.py)|Easy|
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python](/problems/python/n-th-tribonacci-number.py)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](/problems/python/unique-number-of-occurrences.py)|Easy|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [C++](/problems/cpp/deepest-leaves-sum.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](/problems/python/kids-with-the-greatest-number-of-candies.py)|Easy|
