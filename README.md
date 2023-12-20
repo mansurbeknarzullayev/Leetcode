@@ -39,6 +39,7 @@ LeetCode
 |136 |[Single Number](https://leetcode.com/problems/single-number/) | [C++](/problems/cpp/single-number.cpp)|Easy|
 |151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](/problems/python/reverse-words-in-a-string.py)|Medium|
 |199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](/problems/python/binary-tree-right-side-view.py)|Medium|
+|206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](/problems/cpp/reverse-linked-list.cpp)|Easy|
 |215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](/problems/python/kth-largest-element-in-an-array.py)|Medium|
 |238 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](/problems/cpp/product-of-array-except-self.cpp)|Medium|
 |242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](/problems/cpp/valid-anagram.cpp)|Easy|
@@ -49,6 +50,7 @@ LeetCode
 |374 |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](/problems/cpp/guess-number-higher-or-lower.cpp)|Easy|
 |392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](/problems/cpp/is-subsequence.cpp)|Easy|
 |443 |[String Compression](https://leetcode.com/problems/string-compression/) | [Python](/problems/python/string-compression.py)|Medium|
+|435 |[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](/problems/python/non-overlapping-intervals.py)|Medium|
 |535 |[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](/problems/python/encode-and-decode-tinyurl.py)|Medium|
 |605 |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python](/problems/python/can-place-flowers.py)|Easy|
 |643 |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](/problems/python/maximum-average-subarray-i.py)|Easy|
@@ -58,6 +60,7 @@ LeetCode
 |735 |[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](/problems/python/asteroid-collision.py)|Medium|
 |746 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](/problems/cpp/min-cost-climbing-stairs.cpp)|Easy|
 |807 |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Python](/problems/python/max-increase-to-keep-city-skyline.py)|Medium|
+|841 |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Python](/problems/python/keys-and-rooms.py)|Medium|
 |872 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](/problems/cpp/leaf-similar-trees.cpp)|Easy|
 |933 |[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](/problems/python/number-of-recent-calls.py)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](/problems/python/max-consecutive-ones-iii.cpp)|Medium|
@@ -82,4 +85,5 @@ LeetCode
 |2482|[Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [C++](/problems/cpp/difference-between-ones-and-zeros-in-row-and-column.cpp)|Medium|
 |2352|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [C++](/problems/cpp/equal-row-and-column-pairs.cpp)|Medium|
 |2390|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [C++](/problems/cpp/removing-stars-from-a-string.cpp)|Medium|
+|2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [C++](/problems/cpp/buy-two-chocolates.py)|Easy|
 |2807|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Python](/problems/python/insert-greatest-common-divisors-in-linked-list.py)|Medium|
