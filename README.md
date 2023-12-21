@@ -52,6 +52,7 @@ LeetCode
 |443 |[String Compression](https://leetcode.com/problems/string-compression/) | [Python](/problems/python/string-compression.py)|Medium|
 |435 |[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](/problems/python/non-overlapping-intervals.py)|Medium|
 |535 |[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](/problems/python/encode-and-decode-tinyurl.py)|Medium|
+|547 |[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Python](/problems/python/number-of-provinces.py)|Medium|
 |605 |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Python](/problems/python/can-place-flowers.py)|Easy|
 |643 |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](/problems/python/maximum-average-subarray-i.py)|Easy|
 |661 |[Image Smoother](https://leetcode.com/problems/image-smoother/) | [Python](/problems/python/image-smoother.py)|Easy|
@@ -62,6 +63,7 @@ LeetCode
 |807 |[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Python](/problems/python/max-increase-to-keep-city-skyline.py)|Medium|
 |841 |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Python](/problems/python/keys-and-rooms.py)|Medium|
 |872 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](/problems/cpp/leaf-similar-trees.cpp)|Easy|
+|875 |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](/problems/python/koko-eating-bananas.py)|Medium|
 |933 |[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](/problems/python/number-of-recent-calls.py)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](/problems/python/max-consecutive-ones-iii.cpp)|Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Python](/problems/python/greatest-common-divisor-of-strings.py)|Easy|
@@ -76,11 +78,13 @@ LeetCode
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [C++](/problems/cpp/maximum-product-of-two-elements-in-an-array.cpp)|Easy|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Python](/problems/python/longest-subarray-of-1s-after-deleting-one-element.py)|Medium|
 |1582|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [C++](/problems/cpp/find-the-highest-altitude.cpp)|Easy|
+|1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Python](/problems/python/widest-vertical-area-between-two-points-containing-no-points.py)|Medium|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Python](/problems/python/max-number-of-k-sum-pairs.py)|Medium|
 |1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Python](/problems/python/determine-if-two-strings-are-close.py)|Medium|
 |1732|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C++](/problems/cpp/merge-strings-alternately.cpp)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C++](/problems/cpp/merge-strings-alternately.cpp)|Easy|
-|1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Python](/problems/python/maximum-product-difference-between-two-pairs.cpp)|Easy|
+|1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Python](/problems/python/maximum-product-difference-between-two-pairs.py)|Easy|
+|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Python](/problems/python/delete-the-middle-node-of-a-linked-list.py)|Medium|
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Python](/problems/python/find-the-difference-of-two-arrays.py)|Easy|
 |2482|[Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [C++](/problems/cpp/difference-between-ones-and-zeros-in-row-and-column.cpp)|Medium|
 |2352|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [C++](/problems/cpp/equal-row-and-column-pairs.cpp)|Medium|

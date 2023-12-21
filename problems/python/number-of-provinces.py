@@ -1,15 +1,21 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         n = len(isConnected)
-        size = 0
+        g = [[] for i in range(n)]
+        for i in range(n):
+            for j in range(n):
+                if isConnected[i][j]:
+                    g[i].append(j)
         used = [False for i in range(n)]
+        ans = 0
         def go(v):
             used[v] = True
-            for x in isConnected[v]:
-                if x > 0 and not used[x]:
-                    go(x)
+            for w in g[v]:
+                if not used[w]:
+                    go(w)
+        
         for i in range(n):
             if not used[i]:
+                ans += 1
                 go(i)
-                size += 1
-        return size
+        return ans
