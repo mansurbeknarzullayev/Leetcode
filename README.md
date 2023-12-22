@@ -73,6 +73,7 @@ LeetCode
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [C++](/problems/cpp/deepest-leaves-sum.cpp)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](/problems/python/kids-with-the-greatest-number-of-candies.py)|Easy|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/) | [C++](/problems/cpp/destination-city.cpp)|Easy|
+|1442|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [C++](/problems/cpp/maximum-score-after-splitting-a-string.cpp)|Easy|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [C++](/problems/cpp/count-good-nodes-in-binary-tree.cpp)|Medium|
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [C++](/problems/cpp/maximum-number-of-vowels-in-a-substring-of-given-length.cpp)|Medium|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [C++](/problems/cpp/maximum-product-of-two-elements-in-an-array.cpp)|Easy|
